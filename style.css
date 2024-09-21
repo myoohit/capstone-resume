@@ -1,0 +1,13 @@
+html{
+    background-color:lightblue;
+}
+p{
+    font-style: italic;
+}
+a{
+    color: black;
+}
+image{
+    border-image: space;
+    border-color:red;
+}
