@@ -1,5 +1,5 @@
 html{
-    background-color:lightblue;
+    background-color:blue;
 }
 p{
     font-style: italic;
@@ -9,5 +9,5 @@ a{
 }
 image{
     border-image: space;
-    border-color:red;
+    
 }
